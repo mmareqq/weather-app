@@ -1,16 +1,16 @@
 # Weather app
 
-Simple weather app made with Visual Crossing API (https://www.visualcrossing.com/)
+Simple app to check forecast of the region/city/country.
 
-The app provides all weather information.
+Weather data from Visual Crossing API.
 
 ## Preview
 
-![[preview-image.png]]
+![app preview 1](./preview-image-1.png)
 
 ---
 
-![[preview-image-2.png]]
+![app preview 2](./preview-image-2.png)
 
 ## Functions
 
