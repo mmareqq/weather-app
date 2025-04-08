@@ -8,10 +8,6 @@ Weather data from Visual Crossing API.
 
 ![app preview 1](./preview-image-1.png)
 
----
-
-![app preview 2](./preview-image-2.png)
-
 ## Functions
 
 -  search for any city or country
