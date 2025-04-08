@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Document</title>
+      <link rel="stylesheet" href="./styles/reset.css" />
+      <link rel="stylesheet" href="./styles/main.css" />
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+         href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap"
+         rel="stylesheet" />
+   </head>
+
+   <body class="theme--dark">
+      <header class="header flex">
+         <div class="header__content">
+            <h1 class="title text-center">Check weather at your place!</h1>
+            <div class="input-wrapper text-center">
+               <label for="city">Check weather all around the world:</label>
+               <div class="input-area">
+                  <input type="text" name="city" id="city" placeholder="Bangkok" pattern="[A-Za-z\s\-]+" />
+                  <button type="submit" class="search">
+                     <img class="icon" src="./assets/icons/search.svg" alt="" />
+                  </button>
+               </div>
+            </div>
+         </div>
+
+         <div class="unit">
+            <div>
+               <div class="unit-text">Units:</div>
+               <button class="unit-c" aria-selected="true" data-selected="true" data-unit="eu">EU</button>
+               <button class="unit-f" aria-selected="false" data-selected="false" data-unit="us">US</button>
+            </div>
+            <div style="margin-top: 1rem">
+               <div class="theme-text">Theme:</div>
+               <div class="theme-wrapper">
+                  <div class="theme-light-icon"></div>
+                  <input type="checkbox" name="theme" id="theme" checked />
+                  <div class="theme-dark-icon"></div>
+               </div>
+            </div>
+         </div>
+      </header>
+
+      <main class="main main__wrapper">
+         <div class="results-time">Results for: Today, 11:32</div>
+         <div class="error-message"></div>
+
+         <section class="card-section">
+            <div class="main__grid"></div>
+         </section>
+
+         <section class="hours-section section">
+            <h3 class="section__title">Hours:</h3>
+            <div class="hours"></div>
+         </section>
+
+         <section class="forecast-section section">
+            <h3 class="section__title">Next 15 days:</h3>
+            <div class="forecast"></div>
+         </section>
+      </main>
+   </body>
+</html>

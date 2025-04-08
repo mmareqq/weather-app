@@ -1,0 +1,87 @@
+:root {
+  /* ----- COLORS ----- */
+
+  --clr-gray-050: #fafafa;
+  --clr-gray-100: #f5f5f5;
+  --clr-gray-200: #e5e5e5;
+  --clr-gray-300: #d4d4d4;
+  --clr-gray-400: #a3a3a3;
+  --clr-gray-500: #737373;
+  --clr-gray-600: #525252;
+  --clr-gray-700: #404040;
+  --clr-gray-800: #262626;
+  --clr-gray-900: #171717;
+  --clr-gray-950: #0a0a0a;
+
+  --clr-red-050: #fef2f2;
+  --clr-red-100: #fee2e2;
+  --clr-red-200: #fecaca;
+  --clr-red-300: #fca5a5;
+  --clr-red-400: #f87171;
+  --clr-red-500: #ef4444;
+  --clr-red-600: #dc2626;
+  --clr-red-700: #b91c1c;
+  --clr-red-800: #991b1b;
+  --clr-red-900: #7f1d1d;
+  --clr-red-950: #450a0a;
+
+  --clr-blue-050: #eff6ff;
+  --clr-blue-100: #dbeafe;
+  --clr-blue-200: #bfdbfe;
+  --clr-blue-300: #93c5fd;
+  --clr-blue-400: #60a5fa;
+  --clr-blue-500: #3b82f6;
+  --clr-blue-600: #2563eb;
+  --clr-blue-700: #1d4ed8;
+  --clr-blue-800: #1e40af;
+  --clr-blue-900: #1e3a8a;
+  --clr-blue-950: #172554;
+
+  --clr-cyan-050: #ecfeff;
+  --clr-cyan-100: #cffafe;
+  --clr-cyan-200: #a5f3fc;
+  --clr-cyan-300: #67e8f9;
+  --clr-cyan-400: #22d3ee;
+  --clr-cyan-500: #06b6d4;
+  --clr-cyan-600: #0891b2;
+  --clr-cyan-700: #0e7490;
+  --clr-cyan-800: #155e75;
+  --clr-cyan-900: #164e63;
+  --clr-cyan-950: #083344;
+
+  --clr-purple-050: #faf5ff;
+  --clr-purple-100: #f3e8ff;
+  --clr-purple-200: #e9d5ff;
+  --clr-purple-300: #d8b4fe;
+  --clr-purple-400: #c084fc;
+  --clr-purple-500: #a855f7;
+  --clr-purple-600: #9333ea;
+  --clr-purple-700: #7e22ce;
+  --clr-purple-800: #6b21a8;
+  --clr-purple-900: #581c87;
+  --clr-purple-950: #3b0764;
+
+  --clr-green-050: #f0fdf4;
+  --clr-green-100: #dcfce7;
+  --clr-green-200: #bbf7d0;
+  --clr-green-300: #86efac;
+  --clr-green-400: #4ade80;
+  --clr-green-500: #22c55e;
+  --clr-green-600: #16a34a;
+  --clr-green-700: #15803d;
+  --clr-green-800: #166534;
+  --clr-green-900: #14532d;
+  --clr-green-950: #052e16;
+
+  --clr-yellow-050: #fffbeb;
+  --clr-yellow-100: #fef3c7;
+  --clr-yellow-200: #fde68a;
+  --clr-yellow-300: #fcd34d;
+  --clr-yellow-400: #fbbf24;
+  --clr-yellow-500: #f59e0b;
+  --clr-yellow-600: #d97706;
+  --clr-yellow-700: #b45309;
+  --clr-yellow-800: #92400e;
+  --clr-yellow-900: #78350f;
+  --clr-yellow-950: #451a03;
+}

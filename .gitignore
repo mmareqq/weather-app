@@ -1,0 +1,5 @@
+node_modules
+dist
+eslint.config.mjs
+
+api_key.txt
