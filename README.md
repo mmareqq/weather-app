@@ -21,7 +21,7 @@ Simple weather app powered by the **Visual Crossing API** ([visualcrossing.com](
 -  How to integrate and interact with APIs
 -  Working with asynchronous JavaScript and handling promises
 
-## Demo 📸
+## Preview 📸
 
 ![App Screenshot 1](preview-image.png)
 
