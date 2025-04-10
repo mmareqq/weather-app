@@ -1,38 +1,35 @@
-# Weather app
+# Weather App 🌤️
 
-Simple app to check forecast of the region/city/country.
+Simple weather app powered by the **Visual Crossing API** ([visualcrossing.com](https://www.visualcrossing.com/)) to show real-time weather data from anywhere in the world.
 
-Weather data from Visual Crossing API.
+## Key Features 🚀
 
-## Preview
+-  Search any city or country for instant weather updates
+-  Hourly forecast
+-  15-Day forecast
+-  Dark / Light Mode
+-  EU / US unit Conversion
 
-![app preview 1](./preview-image-1.png)
+## Built With 🛠️
 
-## Functions
+-  Webpack for bundling
+-  HTML & CSS
+-  JavaScript (ES6 modules) with modular architecture for clean code and scalability
 
--  search for any city or country
--  hourly forecast
--  forecast for the next 15 days
--  light / dark mode
--  EU / US unit converter
+## What I Learned 💡
 
-## Build using:
+-  How to integrate and interact with APIs
+-  Working with asynchronous JavaScript and handling promises
 
--  webpack
--  HTML
--  CSS
--  JS ES6 modules
+## Demo 📸
 
-## What I learned
+![App Screenshot 1](preview-image.png)
 
--  connecting with API
--  asynchronous code
+---
 
-## Authors
+![App Screenshot 2](preview-image-2.png)
 
--  Me (https://github.com/mmareqq)
+## Acknowledgments 🙏
 
-## Acknowledgments
-
--  Visual Crossing API (https://www.visualcrossing.com/)
--  The Odin Project (https://www.theodinproject.com/)
+-  Visual Crossing API ([visualcrossing.com](https://www.visualcrossing.com/)) - providing the weather data.
+-  [The Odin Project](https://www.theodinproject.com/) Curriculum
