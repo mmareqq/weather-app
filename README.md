@@ -23,11 +23,11 @@ Simple weather app powered by the **Visual Crossing API** ([visualcrossing.com](
 
 ## Preview 📸
 
-![App Screenshot 1](preview-image.png)
+![App Screenshot 1](./preview-image.png)
 
 ---
 
-![App Screenshot 2](preview-image-2.png)
+![App Screenshot 2](./preview-image-2.png)
 
 ## Acknowledgments 🙏
 
