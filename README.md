@@ -14,7 +14,7 @@ Simple weather app powered by the **Visual Crossing API** ([visualcrossing.com](
 
 -  Webpack for bundling
 -  HTML & CSS
--  JavaScript (ES6 modules) with modular architecture for clean code and scalability
+-  JavaScript
 
 ## What I Learned 💡
 
@@ -29,7 +29,7 @@ Simple weather app powered by the **Visual Crossing API** ([visualcrossing.com](
 
 ![App Screenshot 2](./preview-image-2.png)
 
-## Acknowledgments 🙏
+## Acknowledgments
 
 -  Visual Crossing API ([visualcrossing.com](https://www.visualcrossing.com/)) - providing the weather data.
 -  [The Odin Project](https://www.theodinproject.com/) Curriculum
